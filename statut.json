@@ -1,0 +1,25 @@
+{
+    "Online":  false,
+    "Players":  0,
+    "MaxPlayers":  0,
+    "Map":  "",
+    "ServerName":  "",
+    "Code":  "",
+    "HostSteamId":  "76561198978120901",
+    "Version":  "0.7 beta",
+    "Protocol":  10,
+    "ConnectedNames":  [
+
+                       ],
+    "WhitelistEnabled":  false,
+    "Whitelist":  [
+
+                  ],
+    "Refused":  {
+
+                },
+    "Characters":  {
+
+                   },
+    "Updated":  "2026-11-08T22:26:14.2362820Z"
+}
