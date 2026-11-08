@@ -1,25 +1,53 @@
 {
-    "Online":  false,
-    "Players":  0,
-    "MaxPlayers":  0,
-    "Map":  "",
-    "ServerName":  "",
-    "Code":  "",
-    "HostSteamId":  "76561198978120901",
-    "Version":  "0.7 beta",
-    "Protocol":  10,
-    "ConnectedNames":  [
-
-                       ],
-    "WhitelistEnabled":  false,
-    "Whitelist":  [
-
-                  ],
-    "Refused":  {
-
-                },
-    "Characters":  {
-
-                   },
-    "Updated":  "2026-11-08T22:26:14.2362820Z"
+  "Online": true,
+  "Players": 1,
+  "MaxPlayers": 5,
+  "Map": "Gm_HoodCorner",
+  "ServerName": "wib rp fr dev",
+  "Code": "UM01UFE1",
+  "HostSteamId": "76561198978120901",
+  "Version": "0.7.0",
+  "Protocol": 10,
+  "ConnectedNames": [
+    "Bryan Wib"
+  ],
+  "WhitelistEnabled": true,
+  "Whitelist": [
+    "76561198978120901",
+    "76561198641740649",
+    "76561199473230225",
+    "76561198696342794"
+  ],
+  "Refused": {},
+  "Characters": {
+    "76561198978120901": {
+      "Name": "Bryan Wib",
+      "Job": "Armurier",
+      "Grade": "Armurier",
+      "Phone": "555-4947",
+      "Since": "2026-11-05T17:43:46.5307892+01:00"
+    },
+    "76561198641740649": {
+      "Name": "Chris Devis",
+      "Job": "Armurier",
+      "Grade": "Patron",
+      "Phone": "555-7514",
+      "Since": "2026-11-06T03:58:44.3869708+01:00"
+    },
+    "76561199473230225": {
+      "Name": "Kardo Gz",
+      "Job": "Police",
+      "Grade": "Agent",
+      "Phone": "555-7809",
+      "Since": "2026-11-07T22:01:50.2439253+01:00"
+    },
+    "76561198696342794": {
+      "Name": "Marcel Boudin",
+      "Job": "Civil",
+      "Grade": "Citoyen",
+      "Phone": "555-9846",
+      "Since": "2026-11-07T23:24:06.6115117+01:00"
+    }
+  },
+  "Updated": "2026-11-08T22:35:10.4188468Z"
 }
