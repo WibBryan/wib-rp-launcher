@@ -4,7 +4,7 @@
   "MaxPlayers": 5,
   "Map": "Gm_HoodCorner",
   "ServerName": "wib rp fr dev",
-  "Code": "IMSOLZ5B",
+  "Code": "Q0BSIOQT",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
   "Protocol": 10,
@@ -49,5 +49,5 @@
       "Since": "2026-11-07T23:24:06.6115117+01:00"
     }
   },
-  "Updated": "2026-11-09T19:41:29.3060681Z"
+  "Updated": "2026-11-09T19:42:29.6691542Z"
 }
