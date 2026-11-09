@@ -1,6 +1,6 @@
 {
   "Online": true,
-  "Players": 2,
+  "Players": 1,
   "MaxPlayers": 5,
   "Map": "Gm_HoodCorner",
   "ServerName": "wib rp fr dev",
@@ -9,8 +9,7 @@
   "Version": "0.7.0",
   "Protocol": 10,
   "ConnectedNames": [
-    "Bryan Wib",
-    "Chris Devis"
+    "Bryan Wib"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -50,5 +49,5 @@
       "Since": "2026-11-07T23:24:06.6115117+01:00"
     }
   },
-  "Updated": "2026-11-09T19:50:00.0030373Z"
+  "Updated": "2026-11-09T19:51:20.0761225Z"
 }
