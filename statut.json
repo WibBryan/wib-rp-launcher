@@ -1,6 +1,6 @@
 {
   "Online": true,
-  "Players": 1,
+  "Players": 2,
   "MaxPlayers": 6,
   "Map": "15 - Void G114",
   "ServerName": "wib rp fr dev",
@@ -49,5 +49,5 @@
       "Since": "2026-11-07T23:24:06.6115117+01:00"
     }
   },
-  "Updated": "2026-11-11T01:00:59.5208867Z"
+  "Updated": "2026-11-11T01:01:49.5727690Z"
 }
