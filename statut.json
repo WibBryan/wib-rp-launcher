@@ -7,7 +7,7 @@
   "Code": "",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
-  "Protocol": 10,
+  "Protocol": 11,
   "ConnectedNames": [],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -47,5 +47,5 @@
       "Since": "2026-11-07T23:24:06.6115117+01:00"
     }
   },
-  "Updated": "2026-11-11T19:32:58.2258310Z"
+  "Updated": "2026-11-11T19:54:09.1934548Z"
 }
