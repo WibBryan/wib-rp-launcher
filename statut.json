@@ -10,7 +10,8 @@
   "Protocol": 11,
   "ConnectedNames": [
     "Bryan Wib",
-    "Anthony White"
+    "Anthony White",
+    "Zinc Petrove"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -54,7 +55,14 @@
       "Grade": "Citoyen",
       "Phone": "555-6130",
       "Since": "2026-11-11T23:09:04.1742883+01:00"
+    },
+    "76561199446533321": {
+      "Name": "Zinc Petrove",
+      "Job": "Civil",
+      "Grade": "Citoyen",
+      "Phone": "555-6745",
+      "Since": "2026-11-11T23:34:34.8927567+01:00"
     }
   },
-  "Updated": "2026-11-11T22:33:15.7947655Z"
+  "Updated": "2026-11-11T22:34:35.8409934Z"
 }
