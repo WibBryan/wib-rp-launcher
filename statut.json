@@ -1,14 +1,16 @@
 {
-  "Online": false,
-  "Players": 0,
-  "MaxPlayers": 0,
-  "Map": "",
-  "ServerName": "",
-  "Code": "",
+  "Online": true,
+  "Players": 1,
+  "MaxPlayers": 6,
+  "Map": "15 - Void G114",
+  "ServerName": "wib rp fr dev",
+  "Code": "SM8OQXVK",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
   "Protocol": 11,
-  "ConnectedNames": [],
+  "ConnectedNames": [
+    "Bryan Wib"
+  ],
   "WhitelistEnabled": true,
   "Whitelist": [
     "76561198641740649",
@@ -47,5 +49,5 @@
       "Since": "2026-11-07T23:24:06.6115117+01:00"
     }
   },
-  "Updated": "2026-11-11T00:35:26.2154395Z"
+  "Updated": "2026-11-11T01:00:29.5019145Z"
 }
