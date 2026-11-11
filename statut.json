@@ -1,16 +1,15 @@
 {
   "Online": true,
-  "Players": 2,
+  "Players": 1,
   "MaxPlayers": 10,
-  "Map": "WIB EastCoast",
+  "Map": "15 - Void G114",
   "ServerName": "wib rp fr dev",
   "Code": "30GX8VMX",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
   "Protocol": 11,
   "ConnectedNames": [
-    "Bryan Wib",
-    "Anthony White"
+    "Bryan Wib"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -63,5 +62,5 @@
       "Since": "2026-11-11T23:34:34.8927567+01:00"
     }
   },
-  "Updated": "2026-11-11T23:05:47.2601634Z"
+  "Updated": "2026-11-11T23:06:17.6104021Z"
 }
