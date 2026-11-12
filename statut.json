@@ -10,7 +10,8 @@
   "Protocol": 11,
   "ConnectedNames": [
     "Bryan Wib",
-    "Anthony White"
+    "Anthony White",
+    "Zinc Petrove"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -74,5 +75,5 @@
       "Since": "2026-11-12T18:16:20.6541776+01:00"
     }
   },
-  "Updated": "2026-11-12T21:29:35.7342637Z"
+  "Updated": "2026-11-12T21:30:35.7887350Z"
 }
