@@ -1,14 +1,16 @@
 {
-  "Online": false,
-  "Players": 0,
-  "MaxPlayers": 0,
-  "Map": "",
-  "ServerName": "",
-  "Code": "",
+  "Online": true,
+  "Players": 1,
+  "MaxPlayers": 10,
+  "Map": "WIB EastCoast",
+  "ServerName": "wib rp fr dev",
+  "Code": "FX20ZSDX",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
   "Protocol": 11,
-  "ConnectedNames": [],
+  "ConnectedNames": [
+    "Bryan Wib"
+  ],
   "WhitelistEnabled": true,
   "Whitelist": [
     "76561199441046302",
@@ -60,5 +62,5 @@
       "Since": "2026-11-11T23:34:34.8927567+01:00"
     }
   },
-  "Updated": "2026-11-12T17:08:47.1514346Z"
+  "Updated": "2026-11-12T17:09:42.2060935Z"
 }
