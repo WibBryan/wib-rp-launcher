@@ -2,7 +2,7 @@
   "Online": true,
   "Players": 2,
   "MaxPlayers": 10,
-  "Map": "WIB EastCoast",
+  "Map": "15 - Void G114",
   "ServerName": "wib rp fr dev",
   "Code": "FX20ZSDX",
   "HostSteamId": "76561198978120901",
@@ -72,5 +72,5 @@
       "Since": "2026-11-12T18:16:20.6541776+01:00"
     }
   },
-  "Updated": "2026-11-12T17:28:22.9582162Z"
+  "Updated": "2026-11-12T17:29:51.7677424Z"
 }
