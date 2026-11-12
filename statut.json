@@ -9,7 +9,8 @@
   "Version": "0.7.0",
   "Protocol": 11,
   "ConnectedNames": [
-    "Bryan Wib"
+    "Bryan Wib",
+    "B Hh Tyl"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -62,7 +63,14 @@
       "Grade": "Agent",
       "Phone": "555-6745",
       "Since": "2026-11-11T23:34:34.8927567+01:00"
+    },
+    "76561198721871202": {
+      "Name": "B Hh Tyl",
+      "Job": "Civil",
+      "Grade": "Citoyen",
+      "Phone": "555-7103",
+      "Since": "2026-11-12T18:16:20.6541776+01:00"
     }
   },
-  "Updated": "2026-11-12T17:15:22.4670205Z"
+  "Updated": "2026-11-12T17:16:22.5193277Z"
 }
