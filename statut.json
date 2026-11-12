@@ -2,7 +2,7 @@
   "Online": true,
   "Players": 4,
   "MaxPlayers": 10,
-  "Map": "01 - Descent",
+  "Map": "00 - Main Menu",
   "ServerName": "wib rp fr dev",
   "Code": "DBONIGHL",
   "HostSteamId": "76561198978120901",
@@ -83,5 +83,5 @@
       "Since": "2026-11-12T22:35:02.8003563+01:00"
     }
   },
-  "Updated": "2026-11-12T21:52:59.7378014Z"
+  "Updated": "2026-11-12T21:53:27.8705539Z"
 }
