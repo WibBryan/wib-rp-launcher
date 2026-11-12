@@ -11,7 +11,8 @@
   "ConnectedNames": [
     "Bryan Wib",
     "Anthony White",
-    "Zinc Petrove"
+    "Zinc Petrove",
+    "Abdel Crimi"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -73,7 +74,14 @@
       "Grade": "Citoyen",
       "Phone": "555-7103",
       "Since": "2026-11-12T18:16:20.6541776+01:00"
+    },
+    "76561198760806719": {
+      "Name": "Abdel Crimi",
+      "Job": "Civil",
+      "Grade": "Citoyen",
+      "Phone": "555-4672",
+      "Since": "2026-11-12T22:35:02.8003563+01:00"
     }
   },
-  "Updated": "2026-11-12T21:34:46.0065015Z"
+  "Updated": "2026-11-12T21:35:06.0161135Z"
 }
