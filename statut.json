@@ -11,7 +11,7 @@
   "ConnectedNames": [
     "Bryan Wib"
   ],
-  "WhitelistEnabled": true,
+  "WhitelistEnabled": false,
   "Whitelist": [
     "76561199441046302",
     "76561199446533321"
@@ -62,5 +62,5 @@
       "Since": "2026-11-11T23:34:34.8927567+01:00"
     }
   },
-  "Updated": "2026-11-12T17:14:12.4264026Z"
+  "Updated": "2026-11-12T17:14:42.4413964Z"
 }
