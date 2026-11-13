@@ -1,16 +1,14 @@
 {
-  "Online": true,
-  "Players": 1,
-  "MaxPlayers": 10,
-  "Map": "15 - Void G114",
-  "ServerName": "wib rp fr dev",
-  "Code": "L8WZ7E0O",
+  "Online": false,
+  "Players": 0,
+  "MaxPlayers": 0,
+  "Map": "",
+  "ServerName": "",
+  "Code": "",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
   "Protocol": 11,
-  "ConnectedNames": [
-    "Bryan Wib"
-  ],
+  "ConnectedNames": [],
   "WhitelistEnabled": true,
   "Whitelist": [
     "76561199441046302",
@@ -18,7 +16,10 @@
     "76561198978120901",
     "76561198721871202",
     "76561199142160974",
-    "76561198760806719"
+    "76561198760806719",
+    "76561198641740649",
+    "76561199473230225",
+    "76561198696342794"
   ],
   "Refused": {},
   "WlReset": "2026-11-11T21:22:10Z",
@@ -66,7 +67,7 @@
       "Since": "2026-11-11T23:34:34.8927567+01:00"
     },
     "76561198721871202": {
-      "Name": "B Hh Tyl",
+      "Name": "Ethan Walker",
       "Job": "Civil",
       "Grade": "Citoyen",
       "Phone": "555-7103",
@@ -80,5 +81,5 @@
       "Since": "2026-11-12T22:35:02.8003563+01:00"
     }
   },
-  "Updated": "2026-11-13T17:37:28.8570109Z"
+  "Updated": "2026-11-13T21:36:34.8140844Z"
 }
