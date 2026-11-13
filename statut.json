@@ -3,7 +3,7 @@
   "Players": 1,
   "MaxPlayers": 10,
   "Map": "WIB EastCoast",
-  "ServerName": "w",
+  "ServerName": "wib rp",
   "Code": "BSBUU7HV",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
@@ -83,5 +83,5 @@
       "Since": "2026-11-12T22:35:02.8003563+01:00"
     }
   },
-  "Updated": "2026-11-13T21:43:10.5384018Z"
+  "Updated": "2026-11-13T21:43:30.5485829Z"
 }
