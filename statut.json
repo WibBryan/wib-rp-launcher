@@ -2,7 +2,7 @@
   "Online": true,
   "Players": 1,
   "MaxPlayers": 10,
-  "Map": "WIB EastCoast",
+  "Map": "15 - Void G114",
   "ServerName": "wib rp",
   "Code": "MINBWDIW",
   "HostSteamId": "76561198978120901",
@@ -84,5 +84,5 @@
       "Since": "2026-11-12T22:35:02.8003563+01:00"
     }
   },
-  "Updated": "2026-11-14T08:00:40.8499795Z"
+  "Updated": "2026-11-14T08:01:18.8120660Z"
 }
