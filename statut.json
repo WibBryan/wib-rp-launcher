@@ -1,6 +1,6 @@
 {
   "Online": true,
-  "Players": 4,
+  "Players": 3,
   "MaxPlayers": 10,
   "Map": "WIB EastCoast",
   "ServerName": "WIB RP",
@@ -10,7 +10,6 @@
   "Protocol": 11,
   "ConnectedNames": [
     "Bryan Wib",
-    "Zinc Petrove",
     "Joey Herrera",
     "Marcel Boudin"
   ],
@@ -96,5 +95,5 @@
       "Since": "2026-11-15T23:36:32.1938774+01:00"
     }
   },
-  "Updated": "2026-11-15T22:44:07.0376859Z"
+  "Updated": "2026-11-15T22:45:37.0768742Z"
 }
