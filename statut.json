@@ -11,6 +11,7 @@
   "ConnectedNames": [
     "Bryan Wib",
     "Zinc Petrove",
+    "Joey Herrera",
     "Marcel Boudin"
   ],
   "WhitelistEnabled": true,
@@ -86,7 +87,14 @@
       "Grade": "Citoyen",
       "Phone": "555-4672",
       "Since": "2026-11-12T22:35:02.8003563+01:00"
+    },
+    "76561198331201561": {
+      "Name": "Joey Herrera",
+      "Job": "Civil",
+      "Grade": "Citoyen",
+      "Phone": "555-4064",
+      "Since": "2026-11-15T23:36:32.1938774+01:00"
     }
   },
-  "Updated": "2026-11-15T22:36:16.6634043Z"
+  "Updated": "2026-11-15T22:36:36.6845859Z"
 }
