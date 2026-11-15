@@ -1,6 +1,6 @@
 {
   "Online": true,
-  "Players": 3,
+  "Players": 2,
   "MaxPlayers": 10,
   "Map": "WIB EastCoast",
   "ServerName": "WIB RP",
@@ -10,7 +10,6 @@
   "Protocol": 11,
   "ConnectedNames": [
     "Bryan Wib",
-    "Joey Herrera",
     "Marcel Boudin"
   ],
   "WhitelistEnabled": true,
@@ -95,5 +94,5 @@
       "Since": "2026-11-15T23:36:32.1938774+01:00"
     }
   },
-  "Updated": "2026-11-15T22:50:07.2903281Z"
+  "Updated": "2026-11-15T22:51:07.3269297Z"
 }
