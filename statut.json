@@ -1,6 +1,6 @@
 {
   "Online": true,
-  "Players": 5,
+  "Players": 4,
   "MaxPlayers": 10,
   "Map": "WIB EastCoast",
   "ServerName": "WIB RP",
@@ -12,8 +12,7 @@
     "Bryan Wib",
     "Marcel Boudin",
     "Ryad Jakson",
-    "Zinc Petrove",
-    "Joey Herrera"
+    "Zinc Petrove"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -104,5 +103,5 @@
       "Since": "2026-11-15T23:58:13.7576827+01:00"
     }
   },
-  "Updated": "2026-11-16T21:47:59.2498158Z"
+  "Updated": "2026-11-16T21:48:39.2751955Z"
 }
