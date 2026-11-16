@@ -9,7 +9,8 @@
   "Version": "0.7.0",
   "Protocol": 11,
   "ConnectedNames": [
-    "Bryan Wib"
+    "Bryan Wib",
+    "Ryad Jakson"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -100,5 +101,5 @@
       "Since": "2026-11-15T23:58:13.7576827+01:00"
     }
   },
-  "Updated": "2026-11-16T02:14:19.7326228Z"
+  "Updated": "2026-11-16T02:14:39.9963224Z"
 }
