@@ -1,18 +1,14 @@
 {
-  "Online": true,
-  "Players": 3,
-  "MaxPlayers": 10,
-  "Map": "15 - Void G114",
-  "ServerName": "WIB RP",
-  "Code": "IH7DSS0C",
+  "Online": false,
+  "Players": 0,
+  "MaxPlayers": 0,
+  "Map": "",
+  "ServerName": "",
+  "Code": "",
   "HostSteamId": "76561198978120901",
   "Version": "0.7.0",
   "Protocol": 11,
-  "ConnectedNames": [
-    "Bryan Wib",
-    "Zinc Petrove",
-    "Marcel Boudin"
-  ],
+  "ConnectedNames": [],
   "WhitelistEnabled": true,
   "Whitelist": [
     "76561199441046302",
@@ -102,5 +98,5 @@
       "Since": "2026-11-15T23:58:13.7576827+01:00"
     }
   },
-  "Updated": "2026-11-16T21:22:36.5168508Z"
+  "Updated": "2026-11-16T21:22:40.1619075Z"
 }
