@@ -1,6 +1,6 @@
 {
   "Online": true,
-  "Players": 3,
+  "Players": 2,
   "MaxPlayers": 10,
   "Map": "WIB EastCoast",
   "ServerName": "WIB RP",
@@ -10,8 +10,7 @@
   "Protocol": 11,
   "ConnectedNames": [
     "Bryan Wib",
-    "Anthony White",
-    "Zinc Petrove"
+    "Anthony White"
   ],
   "WhitelistEnabled": true,
   "Whitelist": [
@@ -102,5 +101,5 @@
       "Since": "2026-11-15T23:58:13.7576827+01:00"
     }
   },
-  "Updated": "2026-11-23T20:47:55.8456588Z"
+  "Updated": "2026-11-23T20:48:15.8551686Z"
 }
