@@ -1,6 +1,6 @@
 {
   "Online": true,
-  "Players": 2,
+  "Players": 3,
   "MaxPlayers": 10,
   "Map": "WIB EastCoast",
   "ServerName": "WIB RP",
@@ -101,5 +101,5 @@
       "Since": "2026-11-15T23:58:13.7576827+01:00"
     }
   },
-  "Updated": "2026-11-23T20:27:35.3217414Z"
+  "Updated": "2026-11-23T20:28:35.3434174Z"
 }
